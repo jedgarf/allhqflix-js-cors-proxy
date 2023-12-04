@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/allhqfli/cors.allhqflix.com"
+PassengerBaseURI "/"
+PassengerNodejs "/home/allhqfli/nodevenv/cors.allhqflix.com/14/bin/node"
+PassengerAppType node
+PassengerStartupFile server.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
